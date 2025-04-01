@@ -1,7 +1,7 @@
 clear all; close all; clc;
 %% Read inp file data
 % File Name
-inp_name = './input/Mesh_005.inp';
+inp_name = '../input/Mesh_005.inp';
 disp("Read .inp file name : " + inp_name);
 
 % Data Pre-process function
